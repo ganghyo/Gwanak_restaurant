@@ -54,3 +54,5 @@ rest_top100 에서 허가번호가 없는 매장이 확인됨 → 허가번호�
 ## Redash 대시보드
 
 http://3.26.116.20:5000/dashboards?order=-created_at&page=1&page_size=20
+
+Google Bigquery에 작성한 쿼리를 시각화하기 위해 AWS EC2에 인스턴스를 생성하여 Redash를 배포하고 최적화된 쿼리로 대시보드 구축
